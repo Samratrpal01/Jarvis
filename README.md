@@ -13,5 +13,3 @@ The Jarvis project utilizes high-level data structures and algorithms such as ha
 ## Authors
 
 Mender was created by the Rahul and Ayush.
-
-[Mender](https://mender.io) is sponsored by [Northern.tech AS](https://northern.tech).
