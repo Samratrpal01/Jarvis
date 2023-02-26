@@ -12,4 +12,4 @@ The Jarvis project utilizes high-level data structures and algorithms such as ha
 
 ## Authors
 
-Mender was created by the Rahul and Ayush.
+Mender was created by the Rahul Pal and Ayush Singh.
